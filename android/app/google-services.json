@@ -1,0 +1,46 @@
+  {
+  "project_info": {
+    "project_number": "91074312433",
+    "project_id": "reddit-clone-tutorial-cbbd8",
+    "storage_bucket": "reddit-clone-tutorial-cbbd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91074312433:android:5c4aed7b6a656232191150",
+        "android_client_info": {
+          "package_name": "com.example.reddit_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91074312433-3o3gh411sr5cncnf068ch7p0mjs62u24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA45ftvf06hPFsAIc0A9seKjc32-diQJUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91074312433-3o3gh411sr5cncnf068ch7p0mjs62u24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91074312433-icu1ik6tg44ig7os5fu2vfs0tft911cb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redditFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
